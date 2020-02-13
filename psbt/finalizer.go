@@ -12,7 +12,7 @@ package psbt
 // multisig and no other custom script.
 
 import (
-	"github.com/wangzhen0101/btcd/txscript"
+	"github.com/wangzhen0101/wzbtc/txscript"
 )
 
 // isFinalized considers this input finalized if it contains at least one of

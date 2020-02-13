@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/wangzhen0101/btcd/btcec"
-	"github.com/wangzhen0101/btcd/chaincfg"
-	"github.com/wangzhen0101/btcd/chaincfg/chainhash"
+	"github.com/wangzhen0101/wzbtc/btcec"
+	"github.com/wangzhen0101/wzbtc/chaincfg"
+	"github.com/wangzhen0101/wzbtc/chaincfg/chainhash"
 	"github.com/wangzhen0101/btcutil"
 	"github.com/wangzhen0101/btcutil/base58"
 )

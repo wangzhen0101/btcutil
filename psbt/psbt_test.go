@@ -11,9 +11,9 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/wangzhen0101/btcd/chaincfg/chainhash"
-	"github.com/wangzhen0101/btcd/txscript"
-	"github.com/wangzhen0101/btcd/wire"
+	"github.com/wangzhen0101/wzbtc/chaincfg/chainhash"
+	"github.com/wangzhen0101/wzbtc/txscript"
+	"github.com/wangzhen0101/wzbtc/wire"
 	"github.com/davecgh/go-spew/spew"
 )
 

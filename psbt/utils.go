@@ -11,8 +11,8 @@ import (
 	"io"
 	"sort"
 
-	"github.com/wangzhen0101/btcd/txscript"
-	"github.com/wangzhen0101/btcd/wire"
+	"github.com/wangzhen0101/wzbtc/txscript"
+	"github.com/wangzhen0101/wzbtc/wire"
 )
 
 // writeTxWitness is a A utility function due to non-exported witness

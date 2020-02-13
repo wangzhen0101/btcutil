@@ -3,7 +3,7 @@ package psbt
 import (
 	"bytes"
 
-	"github.com/wangzhen0101/btcd/btcec"
+	"github.com/wangzhen0101/wzbtc/btcec"
 )
 
 // PartialSig encapsulate a (BTC public key, ECDSA signature)

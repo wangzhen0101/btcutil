@@ -14,7 +14,7 @@ import (
 
 	"io"
 
-	"github.com/wangzhen0101/btcd/wire"
+	"github.com/wangzhen0101/wzbtc/wire"
 )
 
 // psbtMagicLength is the length of the magic bytes used to signal the start of

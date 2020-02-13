@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/wangzhen0101/btcd/chaincfg/chainhash"
-	"github.com/wangzhen0101/btcd/wire"
+	"github.com/wangzhen0101/wzbtc/chaincfg/chainhash"
+	"github.com/wangzhen0101/wzbtc/wire"
 	"github.com/wangzhen0101/btcutil"
 	"github.com/wangzhen0101/btcutil/coinset"
 )
