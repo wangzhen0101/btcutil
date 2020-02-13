@@ -8,9 +8,9 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/btcsuite/btcd/btcec"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
+	"github.com/wangzhen0101/btcd/btcec"
+	"github.com/wangzhen0101/btcd/chaincfg"
+	"github.com/wangzhen0101/btcd/chaincfg/chainhash"
 	"github.com/btcsuite/btcutil/base58"
 )
 
