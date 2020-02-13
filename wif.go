@@ -11,7 +11,7 @@ import (
 	"github.com/wangzhen0101/btcd/btcec"
 	"github.com/wangzhen0101/btcd/chaincfg"
 	"github.com/wangzhen0101/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcutil/base58"
+	"github.com/wangzhen0101/btcutil/base58"
 )
 
 // ErrMalformedPrivateKey describes an error where a WIF-encoded private

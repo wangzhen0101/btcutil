@@ -16,7 +16,7 @@ import (
 
 	"github.com/wangzhen0101/btcd/txscript"
 	"github.com/wangzhen0101/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/wangzhen0101/btcutil"
 )
 
 // Updater encapsulates the role 'Updater' as specified in BIP174; it accepts

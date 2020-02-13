@@ -13,7 +13,7 @@ import (
 	"github.com/wangzhen0101/btcd/chaincfg/chainhash"
 	"github.com/wangzhen0101/btcd/txscript"
 	"github.com/wangzhen0101/btcd/wire"
-	"github.com/btcsuite/btcutil/gcs"
+	"github.com/wangzhen0101/btcutil/gcs"
 )
 
 const (
